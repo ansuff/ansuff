@@ -1,7 +1,7 @@
 ### Hi there, I am Anas
 
 I consider myself a:
-* Data Scientist - I've received my MSc Data Science from [Leuphana Univrsity of Lüneburg](https://www.leuphana.de/en/university.html)
+* Data Scientist - I've received my MSc Data Science from [Leuphana University of Lüneburg](https://www.leuphana.de/en/university.html)
 * Engineer - I've received my BSc Engineering from [University of Jordan](http://ju.edu.jo/Home.aspx)
 * Software Engineer - I've been working on and off with software since I was 13!
 * Snake Lover - I code moslty in python and I feel the venom in my teeth 
