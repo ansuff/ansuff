@@ -12,7 +12,8 @@ A short snippet of my path in life:
 * 05/2016 - 10/2016: Summer Intern @ [University of Kentucky](https://www.uky.edu/)
 * 2016 - 2020: Production Engineer @ [Hikma Pharmaceuticals](https://www.hikma.com/home/)
 * 2021 - 2022: Data Science Working Student @ Luephana University of Lüneburg
-* 2022 - 2023: Data Science Intern @ [Otto Group](https://www.ottogroup.com/de/)
+* 10/2022 - 03/2023: Data Science Intern @ [Otto Group](https://www.ottogroup.com/de/)
+* 04/2023 - 06/2023: Data Scientist @ [//SAIZ](https://www.saiz.io/)
 
 <!--
 **ansuff/ansuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
