@@ -13,7 +13,8 @@ A short snippet of my path in life:
 * 2016 - 2020: Production Engineer @ [Hikma Pharmaceuticals](https://www.hikma.com/home/)
 * 2021 - 2022: Data Science Working Student @ Luephana University of Lüneburg
 * 10/2022 - 03/2023: Data Science Intern @ [Otto Group](https://www.ottogroup.com/de/)
-* 04/2023 - 06/2023: Data Scientist @ [//SAIZ](https://www.saiz.io/)
+* 04/2023 - 09/2023: Became a Father 👨‍👩‍👧
+* 10/2023 - present: Data Scientist @ [TUI Cruises](https://www.meinschiff.com/)
 
 <!--
 **ansuff/ansuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
